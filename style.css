@@ -1,0 +1,32 @@
+
+
+#headerlogo{
+    font-style:  extra-bold; 
+    font-size: 24px;
+}
+
+#headerweb{
+    font-style: extrabold;
+    font-size: 48px;
+}
+
+header, footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.phrase{
+    background-color: #E5E7EB;
+    font-style: light italic;
+    font-size: 16px;
+    color: #1F2937;
+}
+
+.lastcall{
+    background-color: #3882F6;
+    color: white;
+}
+
+img{
+    max-width: 200px;
+}
